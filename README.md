@@ -46,7 +46,7 @@ I build practical software products with modern web technologies, focused on use
 
 ## 🔗 Find Me Online
 
-* 🌐 **Portfolio:** [cyber-keerthi-showcase.lovable.app](https://cyber-keerthi-showcase.lovable.app/)
+* 🌐 **Portfolio:** 
 * 💼 **LinkedIn:** [Keerthi Beenapati](https://www.linkedin.com/in/keerthi-beenapati)
 * 🐙 **GitHub:** [Keerthi-Beenapati](https://github.com/Keerthi-Beenapati)
 
